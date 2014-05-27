@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Password Protected Area"
+AuthUserFile /home/wheelerj/public_html/sgl-checkpoint-tracker/.htpasswd 
+Require valid-user
